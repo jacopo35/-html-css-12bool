@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+[class *="col"] {
+    border: 1px solid white;
+    min-height: 40px;
+    text-align: center;
+    line-height: 40px;
+}
+
+.row {
+    background-color: #006cfa;
+}
+
+.padding {
+    padding: 20px;
+}
+
+.nested {
+    background-color: #00e265;
+}
+
+.mar-bot-40 {
+    margin-bottom: 40px;
+}
